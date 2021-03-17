@@ -1,0 +1,63 @@
+.mydiv{
+		border:10px outset blue;
+		background-color:lightblue;
+		text-align: center;
+		outline-width: 10px; 
+		outline-style: double;
+		outline-color: red;
+		outline-offset: 5px;
+
+}
+.sst{
+	display: inline-block;
+
+}
+a
+{
+	display: inline-block;
+}
+.box{
+	display:inline-block;
+	width:300px;
+	height:300px;
+}
+.red{
+background-color:red;
+margin:50px 100px 50px 20px;
+}
+.blue{
+	background-color:blue; 
+	margin:50px 50px 50px 20px;
+}
+.yellow{
+	display:inline-block;
+	text-align: center;
+	background-color: yellow;
+	padding:50px 50px
+
+}
+.green{
+	display:inline-block;
+	background-color: green;
+	border:10px solid red;
+	padding:50px;
+	margin:50px;
+
+
+}
+.href{
+	width:100px;
+	height:100px;
+	background-color:yellow;
+	border:10px solid red;
+	margin:100px;
+	box-sizing: 10px 10px 10px 10px white;
+	
+}
+body{
+	background-color:tomato;
+	border:10px solid black; 
+
+
+}
+
